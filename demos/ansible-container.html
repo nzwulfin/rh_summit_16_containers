@@ -1,0 +1,20 @@
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="asciinema-player.css" />
+  <script src="asciinema-player.js"></script>
+</head>
+<body>
+  <div id="player-container"></div>
+  <script>
+    asciinema.player.js.CreatePlayer(
+      'player-container',
+      'ansible-container.json',
+      {
+        speed: 2,
+        fontSize: 'medium',
+        theme: 'solarized-light'
+      }
+    );
+  </script>
+</body>
+</html>

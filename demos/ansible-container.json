@@ -1,0 +1,994 @@
+{
+  "version": 1,
+  "width": 83,
+  "height": 28,
+  "duration": 777.280912,
+  "command": "/bin/bash",
+  "title": "",
+  "env": {
+    "TERM": "xterm-256color",
+    "SHELL": "/bin/bash"
+  },
+  "stdout": [
+    [
+      0.098559,
+      "The connection between the language in which we think/program and the problems\r\nand solutions we can imagine is very close.  For this reason restricting\r\nlanguage features with the intent of eliminating programmer errors is at best\r\ndangerous.\r\n\t\t-- Bjarne Stroustrup\r\n"
+    ],
+    [
+      0.001895,
+      "\u001b]0;matt.micene@zerocool:~/Projects/rhsummit16/atomic/containerize\u0007"
+    ],
+    [
+      0.054393,
+      "\u001b[31m⌁\u001b(B\u001b[m\u001b[1m\u001b[32m68%\u001b(B\u001b[m [matt.micene\u001b(B\u001b[m\u001b[32m:\u001b(B\u001b[m\u001b[1m~/Projects … mic/containerize\u001b(B\u001b[m] \u001b[31mmaster\u001b(B\u001b[m(\u001b[35m+4/-2\u001b(B\u001b[m)\u001b[31m*\u001b(B\u001b[m \u001b[1m±\u001b(B\u001b[m "
+    ],
+    [
+      3.054504,
+      "d"
+    ],
+    [
+      0.120617,
+      "o"
+    ],
+    [
+      0.535760,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.112702,
+      "\u0008\u001b[K"
+    ],
+    [
+      9.307942,
+      "d"
+    ],
+    [
+      0.000008,
+      "o"
+    ],
+    [
+      0.000031,
+      "c"
+    ],
+    [
+      0.000028,
+      "k"
+    ],
+    [
+      0.000028,
+      "e"
+    ],
+    [
+      0.000029,
+      "r"
+    ],
+    [
+      0.000022,
+      " "
+    ],
+    [
+      0.000022,
+      "r"
+    ],
+    [
+      0.000023,
+      "u"
+    ],
+    [
+      0.000022,
+      "n"
+    ],
+    [
+      0.000022,
+      " "
+    ],
+    [
+      0.000025,
+      "-"
+    ],
+    [
+      0.000022,
+      "d"
+    ],
+    [
+      0.000022,
+      " "
+    ],
+    [
+      0.000026,
+      "-"
+    ],
+    [
+      0.000023,
+      "-"
+    ],
+    [
+      0.000022,
+      "n \r"
+    ],
+    [
+      0.000009,
+      "a"
+    ],
+    [
+      0.000003,
+      "me "
+    ],
+    [
+      0.000007,
+      "rh"
+    ],
+    [
+      0.000009,
+      "e"
+    ],
+    [
+      0.000007,
+      "l"
+    ],
+    [
+      0.000007,
+      "-"
+    ],
+    [
+      0.000006,
+      "b"
+    ],
+    [
+      0.000006,
+      "a"
+    ],
+    [
+      0.000007,
+      "s"
+    ],
+    [
+      0.000005,
+      "e"
+    ],
+    [
+      0.000010,
+      "-"
+    ],
+    [
+      0.000016,
+      "1"
+    ],
+    [
+      0.000004,
+      " "
+    ],
+    [
+      0.000008,
+      "r"
+    ],
+    [
+      0.000011,
+      "e"
+    ],
+    [
+      0.000009,
+      "g"
+    ],
+    [
+      0.000010,
+      "i"
+    ],
+    [
+      0.000010,
+      "s"
+    ],
+    [
+      0.000011,
+      "t"
+    ],
+    [
+      0.000008,
+      "r"
+    ],
+    [
+      0.000012,
+      "y"
+    ],
+    [
+      0.000026,
+      "."
+    ],
+    [
+      0.000015,
+      "a"
+    ],
+    [
+      0.000011,
+      "c"
+    ],
+    [
+      0.000011,
+      "c"
+    ],
+    [
+      0.000011,
+      "e"
+    ],
+    [
+      0.000011,
+      "s"
+    ],
+    [
+      0.000011,
+      "s"
+    ],
+    [
+      0.000012,
+      "."
+    ],
+    [
+      0.000013,
+      "r"
+    ],
+    [
+      0.000012,
+      "e"
+    ],
+    [
+      0.000012,
+      "d"
+    ],
+    [
+      0.000012,
+      "h"
+    ],
+    [
+      0.000012,
+      "a"
+    ],
+    [
+      0.000014,
+      "t"
+    ],
+    [
+      0.000013,
+      "."
+    ],
+    [
+      0.000013,
+      "c"
+    ],
+    [
+      0.000013,
+      "o"
+    ],
+    [
+      0.000013,
+      "m"
+    ],
+    [
+      0.000015,
+      "/"
+    ],
+    [
+      0.000014,
+      "r"
+    ],
+    [
+      0.000016,
+      "h"
+    ],
+    [
+      0.000014,
+      "e"
+    ],
+    [
+      0.000014,
+      "l"
+    ],
+    [
+      0.000014,
+      "7"
+    ],
+    [
+      0.000024,
+      " "
+    ],
+    [
+      0.000012,
+      "t"
+    ],
+    [
+      0.000012,
+      "a"
+    ],
+    [
+      0.000012,
+      "i"
+    ],
+    [
+      0.000012,
+      "l"
+    ],
+    [
+      0.000015,
+      " "
+    ],
+    [
+      0.000013,
+      "-"
+    ],
+    [
+      0.000013,
+      "f"
+    ],
+    [
+      0.000015,
+      " "
+    ],
+    [
+      0.000014,
+      "/"
+    ],
+    [
+      0.000013,
+      "d"
+    ],
+    [
+      0.000014,
+      "e"
+    ],
+    [
+      0.000013,
+      "v"
+    ],
+    [
+      0.000013,
+      "/"
+    ],
+    [
+      0.000013,
+      "n"
+    ],
+    [
+      0.000016,
+      "u"
+    ],
+    [
+      0.000014,
+      "l"
+    ],
+    [
+      0.000014,
+      "l"
+    ],
+    [
+      0.809123,
+      "\r\n"
+    ],
+    [
+      0.374906,
+      "e147a02d2ac7f52373eb1373670c327626742f9339135430d740f49f31a89463\r\n"
+    ],
+    [
+      0.140909,
+      "Usage of loopback devices is strongly discouraged for production use. Either use `--storage-opt dm.thinpooldev` or use `--storage-opt dm.no_warn_on_loop_devices=true` to suppress this warning.\r\n"
+    ],
+    [
+      0.001513,
+      "\u001b]0;matt.micene@zerocool:~/Projects/rhsummit16/atomic/containerize\u0007"
+    ],
+    [
+      0.054060,
+      "\u001b[31m⌁\u001b(B\u001b[m\u001b[1m\u001b[32m68%\u001b(B\u001b[m [matt.micene\u001b(B\u001b[m\u001b[32m:\u001b(B\u001b[m\u001b[1m~/Projects … mic/containerize\u001b(B\u001b[m] \u001b[31mmaster\u001b(B\u001b[m(\u001b[35m+4/-2\u001b(B\u001b[m)\u001b[31m*\u001b(B\u001b[m \u001b[1m±\u001b(B\u001b[m "
+    ],
+    [
+      1.397115,
+      "^"
+    ],
+    [
+      0.884341,
+      "r"
+    ],
+    [
+      0.062993,
+      "h"
+    ],
+    [
+      0.102680,
+      "e"
+    ],
+    [
+      0.089019,
+      "l"
+    ],
+    [
+      0.851915,
+      "-"
+    ],
+    [
+      0.301641,
+      "b"
+    ],
+    [
+      0.001247,
+      " "
+    ],
+    [
+      0.168253,
+      "s"
+    ],
+    [
+      0.303009,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.111404,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.206372,
+      "z"
+    ],
+    [
+      0.554274,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.618612,
+      "a"
+    ],
+    [
+      0.537855,
+      "s"
+    ],
+    [
+      0.140189,
+      "e"
+    ],
+    [
+      0.294655,
+      "-"
+    ],
+    [
+      1.398410,
+      "1"
+    ],
+    [
+      0.423227,
+      "^"
+    ],
+    [
+      0.462598,
+      "r"
+    ],
+    [
+      0.107029,
+      "h"
+    ],
+    [
+      0.071931,
+      "e"
+    ],
+    [
+      0.116360,
+      "l \r"
+    ],
+    [
+      0.258364,
+      "-"
+    ],
+    [
+      0.964771,
+      "v"
+    ],
+    [
+      0.340477,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.214116,
+      "b"
+    ],
+    [
+      0.094233,
+      "a"
+    ],
+    [
+      0.114166,
+      "s"
+    ],
+    [
+      0.116832,
+      "e"
+    ],
+    [
+      0.697287,
+      "-"
+    ],
+    [
+      0.205184,
+      "2"
+    ],
+    [
+      0.513900,
+      "\r\n"
+    ],
+    [
+      0.000075,
+      "docker run -d --name rhel-base-2 registry.access.redhat.com/rhel7 tail -f /dev/null\r\n"
+    ],
+    [
+      0.352113,
+      "1b1e9b4b0eb7896636a973f686db3320da28b01e8b9d3e7db9416aaf588ecc4e\r\n"
+    ],
+    [
+      0.167150,
+      "Usage of loopback devices is strongly discouraged for production use. Either use `--storage-opt dm.thinpooldev` or use `--storage-opt dm.no_warn_on_loop_devices=true` to suppress this warning.\r\n"
+    ],
+    [
+      0.001567,
+      "\u001b]0;matt.micene@zerocool:~/Projects/rhsummit16/atomic/containerize\u0007"
+    ],
+    [
+      0.049948,
+      "\u001b[31m⌁\u001b(B\u001b[m\u001b[1m\u001b[32m67%\u001b(B\u001b[m [matt.micene\u001b(B\u001b[m\u001b[32m:\u001b(B\u001b[m\u001b[1m~/Projects … mic/containerize\u001b(B\u001b[m] \u001b[31mmaster\u001b(B\u001b[m(\u001b[35m+4/-2\u001b(B\u001b[m)\u001b[31m*\u001b(B\u001b[m \u001b[1m±\u001b(B\u001b[m "
+    ],
+    [
+      3.235701,
+      "a"
+    ],
+    [
+      0.430404,
+      "n"
+    ],
+    [
+      0.470521,
+      "s"
+    ],
+    [
+      0.095230,
+      "i"
+    ],
+    [
+      0.128916,
+      "ble"
+    ],
+    [
+      0.855036,
+      "-"
+    ],
+    [
+      0.220964,
+      "p"
+    ],
+    [
+      0.178858,
+      "l"
+    ],
+    [
+      0.170258,
+      "aybook  \r"
+    ],
+    [
+      0.912495,
+      "-"
+    ],
+    [
+      0.306907,
+      "i"
+    ],
+    [
+      0.123954,
+      " "
+    ],
+    [
+      0.078930,
+      "i"
+    ],
+    [
+      0.062517,
+      "n"
+    ],
+    [
+      0.243803,
+      "ventory "
+    ],
+    [
+      0.166363,
+      " "
+    ],
+    [
+      0.645771,
+      "\u0008\u001b[K"
+    ],
+    [
+      0.206627,
+      "s"
+    ],
+    [
+      0.098563,
+      "i"
+    ],
+    [
+      0.135593,
+      "te.yml "
+    ],
+    [
+      1.266360,
+      "\r\n"
+    ],
+    [
+      0.210165,
+      "\u001b[0;35m[DEPRECATION WARNING]: Instead of sudo/sudo_user, use become/become_user and make \r\nsure become_method is 'sudo' (default).\r\nThis feature will be removed in a future \r\nrelease. Deprecation warnings can be disabled by setting deprecation_warnings=False\r\n in ansible.cfg.\u001b[0m\r\n"
+    ],
+    [
+      0.016390,
+      "\r\nPLAY [Install MariaDB and WorkPress] *******************************************\r\n"
+    ],
+    [
+      0.014586,
+      "\r\nTASK [setup] *******************************************************************\r\n"
+    ],
+    [
+      0.002459,
+      "\r\nTASK [setup] *******************************************************************\r\n"
+    ],
+    [
+      0.644169,
+      "\u001b[0;32mok: [rhel-base-2]\u001b[0m\r\n"
+    ],
+    [
+      0.004543,
+      "\r\nTASK [ansible-rhtreg : Register system with Red Hat and attach subscriptions] **\r\n"
+    ],
+    [
+      0.002524,
+      "\u001b[0;32mok: [rhel-base-1]\u001b[0m\r\n"
+    ],
+    [
+      0.005518,
+      "\r\nTASK [ansible-rhtreg : Register system with Red Hat and attach subscriptions] **\r\n"
+    ],
+    [
+      17.457401,
+      "\u001b[0;33mchanged: [rhel-base-1]\u001b[0m\r\n"
+    ],
+    [
+      5.887954,
+      "\u001b[0;33mchanged: [rhel-base-2]\u001b[0m\r\n"
+    ],
+    [
+      0.010192,
+      "\r\nPLAY [mariadb-server] **********************************************************\r\n"
+    ],
+    [
+      0.010778,
+      "\r\nTASK [setup] *******************************************************************\r\n"
+    ],
+    [
+      0.516476,
+      "\u001b[0;32mok: [rhel-base-1]\u001b[0m\r\n"
+    ],
+    [
+      0.002817,
+      "\r\nTASK [ansible-mariadb : Install Packages | yum] ********************************\r\n"
+    ],
+    [
+      377.664219,
+      "\u001b[0;36mskipping: [rhel-base-1] =\u003e (item=[u'mariadb-server', u'MySQL-python']) \u001b[0m\r\n"
+    ],
+    [
+      0.002786,
+      "\r\nTASK [ansible-mariadb : include] ***********************************************\r\n"
+    ],
+    [
+      0.028635,
+      "\u001b[0;36mincluded: /home/matt.micene/Projects/rhsummit16/atomic/containerize/roles/ansible-mariadb/tasks/configure.yml for rhel-base-1\u001b[0m\r\n"
+    ],
+    [
+      0.030025,
+      "\r\nTASK [ansible-mariadb : Directory Exists | /var/run/mariadb] *******************\r\n"
+    ],
+    [
+      0.289566,
+      "\u001b[0;33mchanged: [rhel-base-1]\u001b[0m\r\n"
+    ],
+    [
+      0.001471,
+      "\r\nTASK [ansible-mariadb : Configure | mariadb | datadir] *************************\r\n"
+    ],
+    [
+      0.287045,
+      "\u001b[0;33mchanged: [rhel-base-1]\u001b[0m\r\n"
+    ],
+    [
+      0.001540,
+      "\r\nTASK [ansible-mariadb : Configure | mariadb | datadir] *************************\r\n"
+    ],
+    [
+      0.277271,
+      "\u001b[0;33mchanged: [rhel-base-1]\u001b[0m\r\n"
+    ],
+    [
+      0.001485,
+      "\r\nTASK [ansible-mariadb : Configure | mariadb | pidfile] *************************\r\n"
+    ],
+    [
+      0.282641,
+      "\u001b[0;33mchanged: [rhel-base-1]\u001b[0m\r\n"
+    ],
+    [
+      0.001563,
+      "\r\nTASK [ansible-mariadb : Configure | mariadb | bind-address] ********************\r\n"
+    ],
+    [
+      0.291106,
+      "\u001b[0;33mchanged: [rhel-base-1]\u001b[0m\r\n"
+    ],
+    [
+      0.001502,
+      "\r\nTASK [ansible-mariadb : include] ***********************************************\r\n"
+    ],
+    [
+      0.033474,
+      "\u001b[0;36mincluded: /home/matt.micene/Projects/rhsummit16/atomic/containerize/roles/ansible-mariadb/tasks/logging.yml for rhel-base-1\u001b[0m\r\n"
+    ],
+    [
+      0.015572,
+      "\r\nTASK [ansible-mariadb : Directory Exists | /var/log/mariadb] *******************\r\n"
+    ],
+    [
+      0.275942,
+      "\u001b[0;33mchanged: [rhel-base-1]\u001b[0m\r\n"
+    ],
+    [
+      0.001490,
+      "\r\nTASK [ansible-mariadb : Configure | mariadb | general log] *********************\r\n"
+    ],
+    [
+      0.280209,
+      "\u001b[0;33mchanged: [rhel-base-1]\u001b[0m\r\n"
+    ],
+    [
+      0.003398,
+      "\r\nTASK [ansible-mariadb : File is Writable | /var/log/mariadb/general.log] *******\r\n"
+    ],
+    [
+      0.283274,
+      "\u001b[0;33mchanged: [rhel-base-1]\u001b[0m\r\n"
+    ],
+    [
+      0.001536,
+      "\r\nTASK [ansible-mariadb : Configure | mariadb | slow query log] ******************\r\n"
+    ],
+    [
+      0.279801,
+      "\u001b[0;33mchanged: [rhel-base-1]\u001b[0m\r\n"
+    ],
+    [
+      0.005569,
+      "\r\nTASK [ansible-mariadb : File is Writable | /var/log/mariadb/slow-query.log] ****\r\n"
+    ],
+    [
+      0.278480,
+      "\u001b[0;33mchanged: [rhel-base-1]\u001b[0m\r\n"
+    ],
+    [
+      0.001302,
+      "\r\nTASK [ansible-mariadb : Set up MariaDB dirs] ***********************************\r\n"
+    ],
+    [
+      1.178807,
+      "\u001b[0;33mchanged: [rhel-base-1]\u001b[0m\r\n"
+    ],
+    [
+      0.001438,
+      "\r\nTASK [ansible-mariadb : Start MariaDB service] *********************************\r\n"
+    ],
+    [
+      0.013971,
+      "\u001b[0;36mskipping: [rhel-base-1]\u001b[0m\r\n"
+    ],
+    [
+      0.001424,
+      "\r\nTASK [ansible-mariadb : Start MariaDB in container] ****************************\r\n"
+    ],
+    [
+      1.422202,
+      "\u001b[0;33mchanged: [rhel-base-1]\u001b[0m\r\n"
+    ],
+    [
+      0.001426,
+      "\r\nTASK [ansible-mariadb : Pause for MariaDB to become ready] *********************\r\n"
+    ],
+    [
+      2.279914,
+      "\u001b[0;32mok: [rhel-base-1]\u001b[0m\r\n"
+    ],
+    [
+      0.001428,
+      "\r\nTASK [ansible-mariadb : Create Database User] **********************************\r\n"
+    ],
+    [
+      0.321488,
+      "\u001b[0;33mchanged: [rhel-base-1] =\u003e (item=[u'%', u'mysql'])\u001b[0m\r\n"
+    ],
+    [
+      0.220337,
+      "\u001b[0;33mchanged: [rhel-base-1] =\u003e (item=[u'%', u'wordpress'])\u001b[0m\r\n"
+    ],
+    [
+      0.211891,
+      "\u001b[0;33mchanged: [rhel-base-1] =\u003e (item=[u'localhost', u'mysql'])\u001b[0m\r\n"
+    ],
+    [
+      0.216390,
+      "\u001b[0;33mchanged: [rhel-base-1] =\u003e (item=[u'localhost', u'wordpress'])\u001b[0m\r\n"
+    ],
+    [
+      0.002987,
+      "\r\nTASK [ansible-mariadb : Create Database] ***************************************\r\n"
+    ],
+    [
+      0.278034,
+      "\u001b[0;33mchanged: [rhel-base-1]\u001b[0m\r\n"
+    ],
+    [
+      0.001158,
+      "\r\nRUNNING HANDLER [ansible-mariadb : service | mariadb | stopped] ****************\r\n"
+    ],
+    [
+      0.013353,
+      "\u001b[0;36mskipping: [rhel-base-1]\u001b[0m\r\n"
+    ],
+    [
+      0.000634,
+      "\r\nRUNNING HANDLER [ansible-mariadb : service | mariadb | restarted] **************\r\n"
+    ],
+    [
+      0.012892,
+      "\u001b[0;36mskipping: [rhel-base-1]\u001b[0m\r\n"
+    ],
+    [
+      0.005790,
+      "\r\nPLAY [wp-instance] *************************************************************\r\n"
+    ],
+    [
+      0.008144,
+      "\r\nTASK [setup] *******************************************************************\r\n"
+    ],
+    [
+      0.515242,
+      "\u001b[0;32mok: [rhel-base-2]\u001b[0m\r\n"
+    ],
+    [
+      0.001630,
+      "\r\nTASK [ansible-wordpress : Install Apache and PHP] ******************************\r\n"
+    ],
+    [
+      291.346957,
+      "\u001b[0;36mskipping: [rhel-base-2] =\u003e (item=[u'httpd', u'php', u'php-mysql', u'tar']) \u001b[0m\r\n"
+    ],
+    [
+      0.002020,
+      "\r\nTASK [ansible-wordpress : Wordpress | Create site directory] *******************\r\n"
+    ],
+    [
+      0.278733,
+      "\u001b[0;33mchanged: [rhel-base-2]\u001b[0m\r\n"
+    ],
+    [
+      0.004319,
+      "\r\nTASK [ansible-wordpress : Wordpresss | Extract archive] ************************\r\n"
+    ],
+    [
+      27.884555,
+      "\u001b[0;33mchanged: [rhel-base-2]\u001b[0m\r\n"
+    ],
+    [
+      0.002178,
+      "\r\nTASK [ansible-wordpress : Wordpresss | Fetch random salts for wp-config.php] ***\r\n"
+    ],
+    [
+      0.547797,
+      "\u001b[0;33mchanged: [rhel-base-2 -\u003e localhost]\u001b[0m\r\n"
+    ],
+    [
+      0.000129,
+      "\u001b[1;35m [WARNING]: Consider using get_url module rather than running curl\r\n\u001b[0m\r\n"
+    ],
+    [
+      0.004229,
+      "\r\nTASK [ansible-wordpress : Wordpresss | Copy wp-config.php file] ****************\r\n"
+    ],
+    [
+      0.500869,
+      "\u001b[0;33mchanged: [rhel-base-2]\u001b[0m\r\n"
+    ],
+    [
+      0.001413,
+      "\r\nTASK [ansible-wordpress : Wordpresss | Change ownership of installation directory] ***\r\n"
+    ],
+    [
+      0.341280,
+      "\u001b[0;33mchanged: [rhel-base-2]\u001b[0m\r\n"
+    ],
+    [
+      0.001356,
+      "\r\nTASK [ansible-wordpress : Start Apache] ****************************************\r\n"
+    ],
+    [
+      0.013848,
+      "\u001b[0;36mskipping: [rhel-base-2]\u001b[0m\r\n"
+    ],
+    [
+      0.001291,
+      "\r\nTASK [ansible-wordpress : Start Apache in container] ***************************\r\n"
+    ],
+    [
+      1.354408,
+      "\u001b[0;33mchanged: [rhel-base-2]\u001b[0m\r\n"
+    ],
+    [
+      0.001432,
+      "\r\nTASK [ansible-wordpress : Open HTTP port] **************************************\r\n"
+    ],
+    [
+      0.019430,
+      "\u001b[0;36mskipping: [rhel-base-2] =\u003e (item=) \u001b[0m\r\n"
+    ],
+    [
+      0.009099,
+      "\u001b[0;36mskipping: [rhel-base-2] =\u003e (item=--permanent) \u001b[0m\r\n"
+    ],
+    [
+      0.002371,
+      "\r\nPLAY RECAP *********************************************************************\r\n"
+    ],
+    [
+      0.000050,
+      "\u001b[0;33mrhel-base-1\u001b[0m                : \u001b[0;32mok\u001b[0m\u001b[0;32m=\u001b[0m\u001b[0;32m21\u001b[0m   \u001b[0;33mchanged\u001b[0m\u001b[0;33m=\u001b[0m\u001b[0;33m16\u001b[0m   unreachable=0    failed=0   \r\n"
+    ],
+    [
+      0.000040,
+      "\u001b[0;33mrhel-base-2\u001b[0m                : \u001b[0;32mok\u001b[0m\u001b[0;32m=\u001b[0m\u001b[0;32m10\u001b[0m   \u001b[0;33mchanged\u001b[0m\u001b[0;33m=\u001b[0m\u001b[0;33m8\u001b[0m    unreachable=0    failed=0   "
+    ],
+    [
+      0.000004,
+      "\r\n"
+    ],
+    [
+      0.000029,
+      "\r\n"
+    ],
+    [
+      0.023384,
+      "\u001b]0;matt.micene@zerocool:~/Projects/rhsummit16/atomic/containerize\u0007"
+    ],
+    [
+      0.050391,
+      "\u001b[31m⌁\u001b(B\u001b[m\u001b[33m63%\u001b(B\u001b[m [matt.micene\u001b(B\u001b[m\u001b[32m:\u001b(B\u001b[m\u001b[1m~/Projects … mic/containerize\u001b(B\u001b[m] \u001b[31mmaster\u001b(B\u001b[m(\u001b[35m+4/-2\u001b(B\u001b[m)\u001b[31m*\u001b(B\u001b[m \u001b[1m±\u001b(B\u001b[m "
+    ],
+    [
+      3.950752,
+      "e"
+    ],
+    [
+      0.256942,
+      "x"
+    ],
+    [
+      0.115838,
+      "i"
+    ],
+    [
+      0.144424,
+      "t"
+    ],
+    [
+      0.305030,
+      "\r\n"
+    ],
+    [
+      0.000192,
+      "exit\r\n"
+    ]
+  ]
+}
