@@ -2,28 +2,28 @@
 <head>
 </head>
 <body background="bg.png">
-<ul>
+<p> The JS player has some apparent issues with browsers other than Firefox.  If you see a repeatedly blinking hypnotic circle, you may want to try another browser or download the JSON files and use the terminal `asciinema` tool for playback.
+<p> The order below is the right order (!) there may or may not have been an out of order issue during the live session.
+<ol>
   <li>
-    <a href=ansible-container.html > Using anisble with a container target </a>
+    <a href=ansible-container.html > Using ansible with a container target </a>
+    <p> Here we run a pair of containers, and use playbook to install and do general configuration for MariaDB and Wordpress.
   </li>
   <li>
-    <a href=container-commit.html > Create new containers from ansible configured bases </a>
+    <a href=container-commit.html > Create new framework base containers from ansible configured bases </a>
+    <p> Here we look at the configured containers and `docker commit` new bases for later use in our applications.
   </li>
   <li>
     <a href=show-tables.html > Show WP tables in new MariaDB container</a>
   </li>
-  <li>
-    <a href= > ansible-container </a>
-  </li>
+  <p> Just a proof point that shows the specific Wordpress tables in a new application container that we built using the new framework level base images.
   <li>
     <a href=kube-cluster.html > Create a kubernetes cluster on 4 atomic hosts </a>
+    <p> This is the orchestrated build of our container orchestration engine, using kubernetes, docker, and flanneld (for overlay networking).  This uses the <a href="https://github.com/kubernetes/contrib/"> kubernetes/contrib ansible playbooks</a>
   </li>
   <li>
     <a href=atomic-app.html > Check cluster health and launch atomic app </a>
-  </li>
-  <li>
-    <a href= > Anything else I forgot </a>
-  </li>
-</ul>
+    <p> A proof point showing the use of the `atomic run` support for Dockerfile LABELs to launch an existing app from the Docker Hub.
+</ol>
 </body>
 </html>
